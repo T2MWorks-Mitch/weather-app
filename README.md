@@ -14,7 +14,7 @@ This is a simple javascript project made with the help of HTML, CSS and OpenWeat
 
 
 # check out live 
-Web Url: https://avinash201199.github.io/weather-app/
+Web Url: https://bigred3142.github.io/weather-app/
 
 You can contribute in this project by adding some new features or anything in your mind to contribute <br>
 [Check for getting started](https://github.com/avinash201199/weather-app/blob/main/CONTRIBUTING.md)
